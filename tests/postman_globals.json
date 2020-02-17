@@ -1,0 +1,14 @@
+{
+	"id": "8b6377b9-1a46-4dea-8fd8-7c6fd03be337",
+	"values": [
+		{
+			"key": "server",
+			"value": "bespin",
+			"enabled": true
+		}
+	],
+	"name": "My Workspace Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2020-02-17T09:51:33.934Z",
+	"_postman_exported_using": "Postman/7.18.0"
+}
